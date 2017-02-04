@@ -1,0 +1,142 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 2
+vcomplexDivider
+Z0 !s110 1476139316
+!i10b 1
+!s100 Te6OP5;iMPU9^5e4of24K1
+IYeFCKQO5lFERibG__2lXQ0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 3
+Z3 w1476139284
+Z4 8C:\Users\Josh M\Documents\[Projects] Workspace\[460M] Lab 3\trafficLight.v
+Z5 FC:\Users\Josh M\Documents\[Projects] Workspace\[460M] Lab 3\trafficLight.v
+L0 286
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1476139316.000000
+Z8 !s107 C:\Users\Josh M\Documents\[Projects] Workspace\[460M] Lab 3\trafficLight.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Josh M\Documents\[Projects] Workspace\[460M] Lab 3\trafficLight.v|
+!s101 -O0
+!i113 1
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+ncomplex@divider
+vPACKAGESORTER
+R0
+!i10b 1
+!s100 7jQLR1N1lG=ID8oo`JaM;0
+I868Wj]gfBOMDPDzl<BGZ>3
+R1
+R2
+w1476059347
+8C:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 3/packageSorter.v
+FC:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 3/packageSorter.v
+L0 18
+R6
+r1
+!s85 0
+31
+!s108 1476139315.000000
+!s107 C:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 3/packageSorter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 3/packageSorter.v|
+!s101 -O0
+!i113 1
+R10
+n@p@a@c@k@a@g@e@s@o@r@t@e@r
+vPACKAGESORTERTB
+R0
+!i10b 1
+!s100 neK^4bY<;0GeTVn0]HP;c3
+I00X7Db5kJD9SmB=KSJC2^2
+R1
+R2
+w1476060740
+8C:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 3/packageSorterTB.v
+FC:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 3/packageSorterTB.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 3/packageSorterTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 3/packageSorterTB.v|
+!s101 -O0
+!i113 1
+R10
+n@p@a@c@k@a@g@e@s@o@r@t@e@r@t@b
+vpackageSorterTB
+!s110 1476057047
+!i10b 1
+!s100 466oJQ9Hl]XZhU5kTTRX]2
+I`NW^gVf[S5?^ebbVP1ala0
+R1
+R2
+w1476056371
+8C:\Users\Josh M\Documents\[Projects] Workspace\[460M] Lab 3\packageSorterTB.v
+FC:\Users\Josh M\Documents\[Projects] Workspace\[460M] Lab 3\packageSorterTB.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1476057047.000000
+!s107 C:\Users\Josh M\Documents\[Projects] Workspace\[460M] Lab 3\packageSorterTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Josh M\Documents\[Projects] Workspace\[460M] Lab 3\packageSorterTB.v|
+!s101 -O0
+!i113 1
+R10
+npackage@sorter@t@b
+vTOP
+R0
+!i10b 1
+!s100 a_H:8WJo<fM@XT2>[GdIo0
+IDFokma<cFGaf<8Q:d>g<F1
+R1
+R2
+R3
+R4
+R5
+L0 309
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@t@o@p
+vtrafficLight
+R0
+!i10b 1
+!s100 Q4?R[d_WX_N8XTF7AQ2[k0
+IC1=LW9[2]kz;?1Lb>TZTm1
+R1
+R2
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+ntraffic@light

@@ -1,0 +1,24 @@
+{C:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 3/packageSorter.v} {1 {vlog -work work -stats=none {C:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 3/packageSorter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PACKAGESORTER
+
+Top level modules:
+	PACKAGESORTER
+
+} {} {}} {C:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 3/trafficLight.v} {1 {vlog -work work -stats=none {C:\Users\Josh M\Documents\[Projects] Workspace\[460M] Lab 3\trafficLight.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module trafficLight
+-- Compiling module complexDivider
+-- Compiling module TOP
+
+Top level modules:
+	TOP
+
+} {} {}} {C:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 3/packageSorterTB.v} {1 {vlog -work work -stats=none {C:/Users/Josh M/Documents/[Projects] Workspace/[460M] Lab 3/packageSorterTB.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PACKAGESORTERTB
+
+Top level modules:
+	PACKAGESORTERTB
+
+} {} {}}
